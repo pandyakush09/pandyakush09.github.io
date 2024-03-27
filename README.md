@@ -1,4 +1,6 @@
 # pandyakush09.github.io
+[![LinkedIn](linkedin.png)](https://www.linkedin.com/in/kush-pandya-500889260/)
+
 ### SUMMARY:
 Motivated Bachelor's degree student with a keen interest in Artificial Intelligence (AI). Adept at applying theoretical AI concepts through
 coursework, with a focus on machine learning, data analysis, and programming skills in languages such as Python. Eager to leverage academic
