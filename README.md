@@ -1,4 +1,6 @@
 # pandyakush09.github.io
+[LinkedIn] (https://www.linkedin.com/feed/)
+[LeetCode] (https://leetcode.com/pandyakush09/)
 ### SUMMARY:
 Motivated Bachelor's degree student with a keen interest in Artificial Intelligence (AI). Adept at applying theoretical AI concepts through
 coursework, with a focus on machine learning, data analysis, and programming skills in languages such as Python. Eager to leverage academic
